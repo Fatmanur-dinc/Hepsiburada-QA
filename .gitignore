@@ -1,0 +1,15 @@
+# Maven derleme dosyaları (En önemlisi)
+target/
+
+# IDE Ayarları
+.vscode/
+.idea/
+*.iml
+
+# Loglar ve Geçici Dosyalar
+*.log
+temp/
+
+# OS dosyaları
+.DS_Store
+Thumbs.db
